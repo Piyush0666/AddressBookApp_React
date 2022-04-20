@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Nikhil",
+      "address": "Sector",
+      "city": "Faridabad",
+      "state": "HARYANA",
+      "zipcode": "121001",
+      "phonenumber": "+919910936991",
+      "id": 2,
+      "isUpdate": false,
+      "error": {
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "phonenumber": ""
+      }
+    },
+    {
+      "name": "Piyush",
+      "address": "Sector",
+      "city": "Faridabad",
+      "state": "HARYANA",
+      "zipcode": "121001",
+      "phonenumber": "+91-9717744997",
+      "id": 5,
+      "isUpdate": false,
+      "errorname": "",
+      "errorzipcode": "",
+      "errorphonenumber": ""
+    }
+  ]
+}
